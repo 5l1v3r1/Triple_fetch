@@ -1,4 +1,4 @@
-triple_fetch - ianbeer
+triple_fetch - ianbeer [https://bugs.chromium.org/p/project-zero/issues/detail?id=1247]
 
 This is an exploit for CVE-2017-7047, a logic error in libxpc which allowed
 malicious message senders to send xpc_data objects that were backed by shared memory.
